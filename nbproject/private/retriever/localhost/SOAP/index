@@ -1,0 +1,22 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /SOAP</title>
+ </head>
+ <body>
+<h1>Index of /SOAP</h1>
+  <table>
+   <tr><th valign="top"><img src="/icons/blank.gif" alt="[ICO]"></th><th><a href="?C=N;O=D">Name</a></th><th><a href="?C=M;O=A">Last modified</a></th><th><a href="?C=S;O=A">Size</a></th><th><a href="?C=D;O=A">Description</a></th></tr>
+   <tr><th colspan="5"><hr></th></tr>
+<tr><td valign="top"><img src="/icons/back.gif" alt="[PARENTDIR]"></td><td><a href="/">Parent Directory</a>       </td><td>&nbsp;</td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="Calcula.php">Calcula.php</a>            </td><td align="right">2014-02-01 22:40  </td><td align="right">544 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="calcula.wsdl">calcula.wsdl</a>           </td><td align="right">2014-02-12 16:46  </td><td align="right">2.9K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="nusoap.php">nusoap.php</a>             </td><td align="right">2010-04-26 22:38  </td><td align="right">291K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="productlist.php">productlist.php</a>        </td><td align="right">2014-02-01 21:28  </td><td align="right">475 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="server.php">server.php</a>             </td><td align="right">2014-02-01 22:34  </td><td align="right">261 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="server2.php">server2.php</a>            </td><td align="right">2014-02-01 22:34  </td><td align="right">169 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="server3.php">server3.php</a>            </td><td align="right">2014-02-01 23:00  </td><td align="right">162 </td><td>&nbsp;</td></tr>
+   <tr><th colspan="5"><hr></th></tr>
+</table>
+<address>Apache/2.4.4 (Win32) OpenSSL/1.0.1e PHP/5.5.3 Server at localhost Port 80</address>
+</body></html>
